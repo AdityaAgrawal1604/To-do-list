@@ -1,0 +1,35 @@
+{
+  "name": "keeperapp",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.6.1",
+    "@material-ui/icons": "4.5.1",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "^4.0.3",
+    "uuid": "3.3.3"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "Aditya Agrawal",
+  "license": "ISC",
+  "description": ""
+}
